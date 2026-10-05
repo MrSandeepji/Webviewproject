@@ -64,5 +64,35 @@
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
     "url": "https://aniflix.uno",
     "allowed": ["aniflix.uno"]
+  },
+ {
+    "name": "ReAnime",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://reanime.to/home",
+    "allowed": ["reanime.to","reanime.cz","reanime.wtf"]
+  },
+{
+    "name": "AniKOTO TV",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://anikototv.to/home",
+    "allowed": ["anikototv.to","anikoto.me","anikototv.se"]
+  },
+{
+    "name": "AniKaGe",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://anikage.cc/",
+    "allowed": ["anikage.cc"]
+  },
+{
+    "name": "Hindi Anime Verse",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
+    "url": "https://hindianimeverse.org/",
+    "allowed": ["hindianimeverse.org"]
+  },
+{
+    "name": "Anime Joker",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
+    "url": "https://animejoker.com/",
+    "allowed": ["animejoker.com"]
   }
 ]
