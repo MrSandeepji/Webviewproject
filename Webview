@@ -1,33 +1,15 @@
 [
   {
-    "name": "9Anime",
-    "description": "Massive library • HD sub/dub • Classic & latest shows • Multi-server reliability",
-    "url": "https://9anime.org.lv/",
-    "allowed": ["9anime.org.lv"]
+    "name": "Anime World India",
+    "description": "Regional dubs focus • Hindi/Tamil/Telugu • Easy for desi otakus",
+    "url": "https://watchanimeworld.one/",
+    "allowed": ["watchanimeworld.one"]
   },
-  {
-    "name": "Miruro TV",
-    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
-    "url": "https://www.miruro.tv",
-    "allowed": ["miruro.tv"]
-  },
-  {
-    "name": "Miruro TV 2.0",
-    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
-    "url": "https://barelystarted.miruro.tv/",
-    "allowed": ["miruro.tv"]
-  },
-  {
+{
     "name": "Pirate X Play",
-    "description": "High-quality encodes • Fast updates • Great for new seasonal anime",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
     "url": "https://piratexplay.cc/home",
     "allowed": ["piratexplay.cc"]
-  },
-  {
-    "name": "AniWaves",
-    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
-    "url": "https://aniwaves.ru/home",
-    "allowed": ["aniwaves.ru"]
   },
  {
     "name": "Hindi Anime Zone",
@@ -35,15 +17,33 @@
     "url": "https://hindianimeszone.com/",
     "allowed": ["hindianimeszone.com","002.hindianimeszone.com"]
   },
-  {
-    "name": "Anime World India",
-    "description": "Regional dubs focus • Hindi/Tamil/Telugu • Easy for desi otakus",
-    "url": "https://watchanimeworld.one/",
-    "allowed": ["watchanimeworld.one"]
+{
+    "name": "Hindi Anime Verse",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
+    "url": "https://hindianimeverse.org/",
+    "allowed": ["hindianimeverse.org","vidstreaming.org"]
+  },
+{
+    "name": "Anime Joker",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
+    "url": "https://animejoker.com/",
+    "allowed": ["animejoker.com"]
+  },
+{
+    "name": "My Animes",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
+    "url": "https://myanimes.in/",
+    "allowed": ["myanimes.in"]
+  },
+ {
+    "name": "AniFlix",
+    "description": "Hindi / English dubs • Indian fans favorite • Movies + series",
+    "url": "https://aniflix.uno",
+    "allowed": ["aniflix.uno"]
   },
   {
     "name": "TOONO Anime",
-    "description": "High-quality encodes • Fast updates • Great for new seasonal anime",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
     "url": "https://toono.app/home",
     "allowed": ["toono.app"]
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "Rishanime",
-    "description": "Regional dubs focus • Hindi/Tamil/Telugu • Easy for desi otakus",
+    "description": "Regional dubs focus • Hindi/English • Easy for desi otakus",
     "url": "https://watch.rishanime.xyz/",
     "allowed": ["watch.rishanime.xyz"]
   },
@@ -64,12 +64,6 @@
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
     "url": "https://aniwatchtv.ro/",
     "allowed": ["aniwatchtv.ro"]
-  },
-  {
-    "name": "AniFlix",
-    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
-    "url": "https://aniflix.uno",
-    "allowed": ["aniflix.uno"]
   },
  {
     "name": "ReAnime",
@@ -89,6 +83,12 @@
     "url": "https://yomi.to/",
     "allowed": ["yomi.to"]
   },
+  {
+    "name": "AniWaves",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://aniwaves.ru/home",
+    "allowed": ["aniwaves.ru"]
+  },
 {
     "name": "AniKaGe",
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
@@ -96,21 +96,21 @@
     "allowed": ["anikage.cc"]
   },
 {
-    "name": "Hindi Anime Verse",
-    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
-    "url": "https://hindianimeverse.org/",
-    "allowed": ["hindianimeverse.org","vidstreaming.org"]
-  },
-{
-    "name": "Anime Joker",
-    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
-    "url": "https://animejoker.com/",
-    "allowed": ["animejoker.com"]
-  },
-{
-    "name": "My Animes",
+    "name": "9Anime",
     "description": "Massive library • HD sub/dub • Classic & latest shows • Multi-server reliability",
-    "url": "https://myanimes.in/",
-    "allowed": ["myanimes.in"]
+    "url": "https://9anime.org.lv/",
+    "allowed": ["9anime.org.lv"]
+  },
+  {
+    "name": "Miruro TV",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://www.miruro.tv",
+    "allowed": ["miruro.tv"]
+  },
+  {
+    "name": "Miruro TV 2.0",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://barelystarted.miruro.tv/",
+    "allowed": ["miruro.tv"]
   }
 ]
