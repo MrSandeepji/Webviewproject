@@ -28,5 +28,23 @@
     "description": "Regional dubs focus • Hindi/Tamil/Telugu • Easy for desi otakus",
     "url": "https://watchanimeworld.one/",
     "allowed": ["watchanimeworld.one"]
+  },
+ {
+    "name": "TOONO Anime",
+    "description": "High-quality encodes • Fast updates • Great for new seasonal anime",
+    "url": "https://toono.app/home",
+    "allowed": ["toono.app"]
+  },
+  {
+    "name": "Moviessora",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
+    "url": "https://moviessora.buzz",
+    "allowed": ["moviessora.buzz"]
+  },
+  {
+    "name": "Rishanime",
+    "description": "Regional dubs focus • Hindi/Tamil/Telugu • Easy for desi otakus",
+    "url": "https://watch.rishanime.xyz/",
+    "allowed": ["watch.rishanime.xyz"]
   }
 ]
