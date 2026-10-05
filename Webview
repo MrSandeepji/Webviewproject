@@ -35,7 +35,7 @@
     "url": "https://watchanimeworld.one/",
     "allowed": ["watchanimeworld.one"]
   },
- {
+  {
     "name": "TOONO Anime",
     "description": "High-quality encodes • Fast updates • Great for new seasonal anime",
     "url": "https://toono.app/home",
@@ -59,7 +59,7 @@
     "url": "https://aniwatchtv.ro/",
     "allowed": ["aniwatchtv.ro"]
   },
-{
+  {
     "name": "AniFlix",
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
     "url": "https://aniflix.uno",
