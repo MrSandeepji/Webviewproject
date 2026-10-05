@@ -78,6 +78,12 @@
     "allowed": ["anikototv.to","anikoto.me","anikototv.se"]
   },
 {
+    "name": "Yomi",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://yomi.to/",
+    "allowed": ["yomi.to"]
+  },
+{
     "name": "AniKaGe",
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
     "url": "https://anikage.cc/",
