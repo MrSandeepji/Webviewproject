@@ -29,6 +29,12 @@
     "url": "https://aniwaves.ru/home",
     "allowed": ["aniwaves.ru"]
   },
+ {
+    "name": "Hindi Anime Zone",
+    "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
+    "url": "https://hindianimeszone.com/",
+    "allowed": ["hindianimeszone.com"]
+  },
   {
     "name": "Anime World India",
     "description": "Regional dubs focus • Hindi/Tamil/Telugu • Easy for desi otakus",
@@ -100,5 +106,11 @@
     "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
     "url": "https://animejoker.com/",
     "allowed": ["animejoker.com"]
-  }
+  },
+{
+    "name": "My Animes",
+    "description": "Massive library • HD sub/dub • Classic & latest shows • Multi-server reliability",
+    "url": "https://myanimes.in/",
+    "allowed": ["myanimes.in"]
+  },
 ]
