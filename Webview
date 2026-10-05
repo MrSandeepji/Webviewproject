@@ -33,7 +33,7 @@
     "name": "Hindi Anime Zone",
     "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
     "url": "https://hindianimeszone.com/",
-    "allowed": ["hindianimeszone.com"]
+    "allowed": ["hindianimeszone.com","002.hindianimeszone.com"]
   },
   {
     "name": "Anime World India",
