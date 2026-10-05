@@ -64,5 +64,5 @@
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
     "url": "https://aniflix.uno",
     "allowed": ["aniflix.uno"]
-  },
+  }
 ]
