@@ -12,16 +12,22 @@
     "allowed": ["miruro.tv"]
   },
   {
+    "name": "Miruro TV 2.0",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://barelystarted.miruro.tv/",
+    "allowed": ["miruro.tv"]
+  },
+  {
     "name": "Pirate X Play",
     "description": "High-quality encodes • Fast updates • Great for new seasonal anime",
     "url": "https://piratexplay.cc/home",
     "allowed": ["piratexplay.cc"]
   },
   {
-    "name": "Anime Dekho",
+    "name": "AniWaves",
     "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
-    "url": "https://animedekho.tv/home",
-    "allowed": ["animedekho.tv"]
+    "url": "https://aniwaves.ru/home",
+    "allowed": ["aniwaves.ru"]
   },
   {
     "name": "Anime World India",
@@ -47,4 +53,16 @@
     "url": "https://watch.rishanime.xyz/",
     "allowed": ["watch.rishanime.xyz"]
   }
+{
+    "name": "AniWatch TV",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://aniwatchtv.ro/",
+    "allowed": ["aniwatchtv.ro"]
+  },
+{
+    "name": "AniFlix",
+    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
+    "url": "https://aniflix.uno",
+    "allowed": ["aniflix.uno"]
+  },
 ]
