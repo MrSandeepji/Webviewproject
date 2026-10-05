@@ -3,25 +3,13 @@
     "name": "9Anime",
     "description": "Massive library • HD sub/dub • Classic & latest shows • Multi-server reliability",
     "url": "https://9anime.org.lv/",
-    "allowed": [
-      "9anime.org.lv",
-      "9anime.to",
-      "9anime.id",
-      "9anime.pl",
-      "gogocdn.net",
-      "cdn.9anime.org.lv"
-    ]
+    "allowed": ["9anime.org.lv"]
   },
   {
     "name": "Miruro TV",
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
     "url": "https://www.miruro.tv",
-    "allowed": [
-      "miruro.tv",
-      "www.miruro.tv",
-      "api.miruro.tv",
-      "cdn.miruro.tv"
-    ]
+    "allowed": ["miruro.tv"]
   },
   {
     "name": "Pirate X Play",
