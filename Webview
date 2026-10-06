@@ -42,6 +42,12 @@
     "allowed": ["aniflix.uno"]
   },
   {
+    "name": "AnimeSalt.ro",
+    "description": "Hindi / English dubs • Indian fans favorite • Movies + series",
+    "url": "https://animesalt.ro/",
+    "allowed": ["animesalt.ro"]
+  },
+  {
     "name": "TOONO Anime",
     "description": "Hindi / Tamil / Telugu dubs • Indian fans favorite • Movies + series",
     "url": "https://toono.app/home",
