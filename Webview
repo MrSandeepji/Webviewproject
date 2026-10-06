@@ -1,5 +1,11 @@
 [
   {
+    "name": "News",
+    "description": "Regional dubs focus • Hindi/Tamil/Telugu • Easy for desi otakus",
+    "url": "https://m.economictimes.com/news",
+    "allowed": ["economictimes.com"]
+  },
+{
     "name": "Anime World India",
     "description": "Regional dubs focus • Hindi/Tamil/Telugu • Easy for desi otakus",
     "url": "https://watchanimeworld.one/",
