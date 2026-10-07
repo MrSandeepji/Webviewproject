@@ -71,6 +71,12 @@
     "url": "https://watch.rishanime.xyz/",
     "allowed": ["watch.rishanime.xyz"]
   },
+ {
+    "name": "Animo Stream",
+    "description": "Hindi/English • Smooth & fast streaming • No heavy ads • Multi Quality Support",
+    "url": "https://www.animostream.xyz/",
+    "allowed": ["animostream.xyz"]
+  },
   {
     "name": "AniWatch TV",
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
@@ -124,11 +130,5 @@
     "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
     "url": "https://barelystarted.miruro.tv/",
     "allowed": ["miruro.tv"]
-  },
-{
-    "name": "Animo Stream",
-    "description": "Clean UI • Fast streaming • No heavy ads • Smooth 1080p with intro skip",
-    "url": "https://www.animostream.xyz/",
-    "allowed": ["animostream.xyz"]
   }
 ]
